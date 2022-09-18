@@ -1,5 +1,5 @@
 # PHPJSONPlaceholderTask
-Тестовое задание на работу с Api JSONPlaceholder (jsonplaceholder.typicode.com)
+Тестовое задание с Api JSONPlaceholder (jsonplaceholder.typicode.com)
 
 Используется **php7.4.30**
 Загружен исходный код проекта и файл **composer.json**, для подгрузки библиотек.
